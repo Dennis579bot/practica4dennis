@@ -77,7 +77,7 @@
 <body>
 
 <header>
-    <h1>Tienda en Línea</h1>
+    <h1>VENTA DE ROPA</h1>
     <p>Compra el mejor producto ahora mismo</p>
 </header>
 
