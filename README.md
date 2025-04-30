@@ -1,4 +1,4 @@
-# practica4dennis
+
 <!DOCTYPE html>
 <html lang=”es”>
 <head>
@@ -87,33 +87,7 @@
         <h1>Producto XYZ</h1>
         <p>¡El producto ideal para ti! El Producto XYZ es perfecto para todas tus necesidades. Diseñado con materiales de alta calidad y pensado para ofrecerte lo mejor en rendimiento y estilo.</p>
         
-        <div class=”product-details”>
-            <div>
-                <label for=”size”>Tamaño:</label>
-                <p id=”size”>M (Mediano)</p>
-            </div>
-            <div>
-                <label for=”texture”>Textura:</label>
-                <p id=”texture”>Suave y cómoda, ideal para uso diario.</p>
-            </div>
-            <div>
-                <label for=”price”>Precio:</label>
-                <p id=”price”>$49.99 USD</p>
-            </div>
-        </div>
-
-        <div class=”price”>
-            <p>¡Aprovecha nuestra oferta especial!</p>
-            <p><strong>Solo por hoy: $49.99 USD</strong></p>
-        </div>
-
-        <button class=”buy-button”>Comprar Ahora</button>
-    </div>
-
-    <!—Imagen del producto 
-    <div class=”product-image”>
-        <img src=https://via.placeholder.com/300 alt=”Producto XYZ”>
-    </div>
+      
 </div>
 
 </body>
